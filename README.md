@@ -15,7 +15,7 @@ This challenge will help me improve my programming skills by building 30 small p
 * [ ] Day 30 - Create a Personal website
 * [ ] More project ideas will be added...
 
-## ⭐Credits
+## ⭐ Credits
 
 Inspired by [Florin Pop](https://www.florin-pop.com/blog/built-100-projects-in-100-days/) and [Vanshika](https://twitter.com/aahiknsv/status/1434551688925306880) 
 
