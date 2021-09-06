@@ -5,5 +5,4 @@ const progressTimer = setInterval(incrementProgressBar, 100)
 function incrementProgressBar() {
     number++
     number == 101 ? clearInterval(progressTimer) : progressBar.value = number
-    console.log(number)
 }
