@@ -1,2 +1,11 @@
-# 30Days30Projects
-Building 30 small projects using html, css and javasript
+# 💡 30 Days 30 Projects
+This challenge will help me improve my programming skills by building 30 small projects using HTML, CSS and JavaScript. I will share my progress on my blog.
+
+
+
+## 📃 Projects List
+
+* [ ] Day 01 - Increment value of Progress Bar
+
+
+
