@@ -1,5 +1,5 @@
 const input = document.querySelector('.input')
-const pwdField = document.querySelector('.password')
+const pwdField = document.querySelector('.newpwd')
 
 function generatePassword() {
     const pwdChars = '!@1234567890abcdefgh#$%jkmnopqrstuvwxyz&*()'
