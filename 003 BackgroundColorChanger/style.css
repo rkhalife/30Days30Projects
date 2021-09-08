@@ -1,0 +1,17 @@
+body {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.btnChangebg {
+    background-color: rgb(209, 93, 93);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    padding: 20px 40px;
+    border-radius: 5px;
+    border: 0;
+    color: #fff;
+    margin: 50px 0 0 0;
+}
