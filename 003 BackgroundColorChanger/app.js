@@ -1,5 +1,4 @@
 const button = document.querySelector('.btnChangebg')
-const rgb = document.querySelector('.rgb');
 
 button.addEventListener('click', rndColor) 
 
