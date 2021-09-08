@@ -7,7 +7,7 @@ This challenge will help me improve my programming skills by building 30 small p
 
 * [x] Day 01 - Increment value of Progress Bar - [CodePen](https://codepen.io/rkhalife/pen/oNwYZeb)
 * [x] Day 02 - Random Password Generator - [CodePen](https://codepen.io/rkhalife/pen/dyRNppy)
-* [ ] Day 03 - Countdown to Halloween
+* [x] Day 03 - Generate a Random Background Color - [CodePen](https://codepen.io/rkhalife/pen/jOwyovo)
 * [ ] Day xx - Display Password Strength
 * [ ] Day xx - Rock Paper Scissors game
 * [ ] Day xx - Random Quote Generator
