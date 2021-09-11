@@ -5,7 +5,7 @@ const yourscore = document.querySelector('.yourscore')
 let score = 0;
 let timer = 15;
 
-let getNew = setInterval(() => {
+let gameStart = setInterval(() => {
     reset()
     timer--
     timeleft.textContent = `Time left is ${timer}`
@@ -16,7 +16,7 @@ let getNew = setInterval(() => {
         timeleft.textContent = `Game Over!`
         yourscore.textContent = `Your final score is: ${score}`
         reset()
-        clearInterval(getNew)
+        clearInterval(gameStart)
     }
 }, 600)
 
