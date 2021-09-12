@@ -8,7 +8,7 @@ This challenge will help me improve my programming skills by building 30 small p
 * [x] Day 03 - Generate a Random Background Color - [CodePen](https://codepen.io/rkhalife/pen/jOwyovo)
 * [x] Day 04 - A Simple to do list - [CodePen](https://codepen.io/rkhalife/pen/bGRqxgw)
 * [x] Day 05 - A Whac-a-mole game - [CodePen](https://codepen.io/rkhalife/pen/dyRWjdJ)
-* [ ] Day xx - Display Password Strength
+* [x] Day 06 - Display Password Strength - [CodePen](https://codepen.io/rkhalife/pen/ZEyyQgx)
 * [ ] Day xx - Rock Paper Scissors game
 * [ ] Day xx - Random Quote Generator
 * [ ] Day xx - Form Validation
