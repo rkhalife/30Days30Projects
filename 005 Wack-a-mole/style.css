@@ -21,8 +21,8 @@ body {
 }
 
 .mole {
-    background-color: cadetblue;
-    /* could use a nice background-image next time */
+    background-image: url('img/wackamole.png');
+    background-size: cover;
 }
 
 footer {

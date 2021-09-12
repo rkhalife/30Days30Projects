@@ -24,7 +24,7 @@ let gameStart = setInterval(() => {
         clearInterval(gameStart)
         storeScore(score)
     }
-}, 600)
+}, 750)
 
 function scored() {
     score++;
