@@ -1,0 +1,12 @@
+progress {
+    height: 20px;
+    visibility: hidden;
+}
+
+label {
+    visibility: hidden;
+}
+
+.minlength {
+    visibility: hidden;
+}
