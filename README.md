@@ -9,8 +9,8 @@ This challenge will help me improve my programming skills by building 30 small p
 * [x] Day 04 - A Simple to do list - [CodePen](https://codepen.io/rkhalife/pen/bGRqxgw)
 * [x] Day 05 - A Whac-a-mole game - [CodePen](https://codepen.io/rkhalife/pen/dyRWjdJ)
 * [x] Day 06 - Display Password Strength - [CodePen](https://codepen.io/rkhalife/pen/ZEyyQgx)
+* [x] Day 07 - Random Game of Thrones Quote Generator
 * [ ] Day xx - Rock Paper Scissors game
-* [ ] Day xx - Random Quote Generator
 * [ ] Day xx - Form Validation
 * [ ] Day xx - Create a Personal website
 * [ ] Day xx - Create Responsive 404 page
