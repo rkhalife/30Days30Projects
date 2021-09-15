@@ -1,0 +1,13 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+}
+
+button {
+    padding: 5px;
+    margin: 5px;
+}
+
+div {
+    padding: 5px;
+}
