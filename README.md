@@ -10,7 +10,7 @@ This challenge will help me improve my programming skills by building 30 small p
 * [x] Day 05 - A Whac-a-mole game - [CodePen](https://codepen.io/rkhalife/pen/dyRWjdJ)
 * [x] Day 06 - Display Password Strength - [CodePen](https://codepen.io/rkhalife/pen/ZEyyQgx)
 * [x] Day 07 - Random Game of Thrones Quote Generator
-* [ ] Day xx - Rock Paper Scissors game
+* [x] Day 08 - Rock Paper Scissors game
 * [ ] Day xx - Form Validation
 * [ ] Day xx - Create a Personal website
 * [ ] Day xx - Create Responsive 404 page
@@ -19,4 +19,3 @@ This challenge will help me improve my programming skills by building 30 small p
 ## ⭐ Credits
 
 Inspired by [Florin Pop](https://www.florin-pop.com/blog/built-100-projects-in-100-days/).
-
