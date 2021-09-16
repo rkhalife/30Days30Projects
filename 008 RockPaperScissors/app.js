@@ -24,12 +24,22 @@ function cpuRandom() {
     const choices = ['Rock', 'Paper', 'Scissors']
     const rnd = Math.floor(Math.random() * choices.length)
     cpuChoice = choices[rnd]
-    if (userSelection === cpuChoice)                            { result.innerHTML = `You selected ${userSelection}, cpu selected ${cpuChoice}. It's a TIE!` }
-    if (userSelection === 'Rock' && cpuChoice === 'Scissors')   { result.innerHTML = `You selected ${userSelection}, cpu selected ${cpuChoice}. You WIN!` }
-    if (userSelection === 'Rock' && cpuChoice === 'Paper')      { result.innerHTML = `You selected ${userSelection}, cpu selected ${cpuChoice}. You LOSE!` }
-    if (userSelection === 'Paper' && cpuChoice === 'Scissors')  { result.innerHTML = `You selected ${userSelection}, cpu selected ${cpuChoice}. You LOSE!` }
-    if (userSelection === 'Paper' && cpuChoice === 'Rock')      { result.innerHTML = `You selected ${userSelection}, cpu selected ${cpuChoice}. You WIN!` }
-    if (userSelection === 'Scissors' && cpuChoice === 'Rock')   { result.innerHTML = `You selected ${userSelection}, cpu selected ${cpuChoice}. You LOSE!` }
-    if (userSelection === 'Scissors' && cpuChoice === 'Paper')  { result.innerHTML = `You selected ${userSelection}, cpu selected ${cpuChoice}. You WIN!` }
+    result.innerHTML = `You selected ${userSelection}, Computer selected ${cpuChoice}. `
+    switch (userSelection) {
+        case cpuChoice:
+            result.innerHTML += "It's a TIE!"
+            break
+        case "Rock":
+            (cpuChoice === "Scissors") ? result.innerHTML += 'You WON ⭐' : result.innerHTML += 'You LOST 😢'
+            break
+        case "Paper":
+            (cpuChoice === "Rock") ?  result.innerHTML += 'You WON ⭐' : result.innerHTML += 'You LOST 😢'
+            break
+        case "Scissors":
+            (cpuChoice === "Paper") ? result.innerHTML += 'You WON ⭐' : result.innerHTML += 'You LOST 😢'
+            break
+        default:
+            result.innerHTML = "Something went wrong"
+    }
 }
 
