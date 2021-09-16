@@ -1,6 +1,3 @@
-const rock = document.querySelector('.Rock')
-const paper = document.querySelector('.Paper')
-const scissors = document.querySelector('.Scissors')
 const result = document.querySelector('.result')
 let userSelection = ''
 let cpuChoice = ''
