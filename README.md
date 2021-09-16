@@ -1,5 +1,5 @@
 # 💡 30 Days 30 Projects
-This challenge will help me improve my programming skills by building 30 small projects using HTML, CSS and JavaScript. I will share my progress on my [dev.to](https://dev.to/rogerk/).
+This challenge will help me improve my programming skills by building 30 small projects using HTML, CSS and JavaScript.
 
 ## 📃 Projects List
 
