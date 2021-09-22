@@ -1,5 +1,5 @@
 # 💡 30 Days 30 Projects
-This challenge will help me learn programming by building 30 small projects using HTML, CSS and JavaScript.
+This challenge will help me learn Javascript by building 30 small projects using HTML, CSS and JavaScript.
 
 ## 📃 Projects List
 
